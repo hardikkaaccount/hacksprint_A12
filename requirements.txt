@@ -1,0 +1,9 @@
+requests
+pickle
+flask
+numpy
+pandas
+os
+re
+nltk
+sklearn
